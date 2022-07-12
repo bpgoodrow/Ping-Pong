@@ -1,0 +1,15 @@
+/Users/benjamingoodrow/Desktop/C#/week1/Ping-Pong/bin/Debug/net5.0/pingpong.deps.json
+/Users/benjamingoodrow/Desktop/C#/week1/Ping-Pong/bin/Debug/net5.0/pingpong.runtimeconfig.json
+/Users/benjamingoodrow/Desktop/C#/week1/Ping-Pong/bin/Debug/net5.0/pingpong.runtimeconfig.dev.json
+/Users/benjamingoodrow/Desktop/C#/week1/Ping-Pong/bin/Debug/net5.0/pingpong.dll
+/Users/benjamingoodrow/Desktop/C#/week1/Ping-Pong/bin/Debug/net5.0/ref/pingpong.dll
+/Users/benjamingoodrow/Desktop/C#/week1/Ping-Pong/bin/Debug/net5.0/pingpong.pdb
+/Users/benjamingoodrow/Desktop/C#/week1/Ping-Pong/obj/Debug/net5.0/pingpong.csproj.AssemblyReference.cache
+/Users/benjamingoodrow/Desktop/C#/week1/Ping-Pong/obj/Debug/net5.0/pingpong.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjamingoodrow/Desktop/C#/week1/Ping-Pong/obj/Debug/net5.0/pingpong.AssemblyInfoInputs.cache
+/Users/benjamingoodrow/Desktop/C#/week1/Ping-Pong/obj/Debug/net5.0/pingpong.AssemblyInfo.cs
+/Users/benjamingoodrow/Desktop/C#/week1/Ping-Pong/obj/Debug/net5.0/pingpong.csproj.CoreCompileInputs.cache
+/Users/benjamingoodrow/Desktop/C#/week1/Ping-Pong/obj/Debug/net5.0/pingpong.dll
+/Users/benjamingoodrow/Desktop/C#/week1/Ping-Pong/obj/Debug/net5.0/ref/pingpong.dll
+/Users/benjamingoodrow/Desktop/C#/week1/Ping-Pong/obj/Debug/net5.0/pingpong.pdb
+/Users/benjamingoodrow/Desktop/C#/week1/Ping-Pong/obj/Debug/net5.0/pingpong.genruntimeconfig.cache
